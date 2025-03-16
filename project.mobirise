@@ -66,7 +66,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 36,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
